@@ -45,7 +45,7 @@
                 inited = true;
                 if (queue) {
                     var j, k = 0;
-                    while (j = queue[k++]) j.call(null);
+                    while (j == queue[k++]) j.call(null);
                     queue = null
                 }
             }
