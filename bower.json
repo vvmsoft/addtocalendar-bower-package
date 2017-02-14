@@ -5,7 +5,7 @@
     "support@addtocalendar.com"
   ],
   "description": "Free customizable widget \"Add to Calendar\" for event page. It allows users to easily schedule the event in their calendar.",
-  "main": "atc.min.js",
+  "main": "addtocalendar.js",
   "moduleType": [
     "globals"
   ],
